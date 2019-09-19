@@ -1,0 +1,23 @@
+{
+  "name": "mtg-cli",
+  "version": "1.0.0",
+  "description": "Search and view Magic: The Gathering cards within the command line",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyRN/mtg-cli.git"
+  },
+  "author": "pyRN - J. Mayeux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pyRN/mtg-cli/issues"
+  },
+  "homepage": "https://github.com/pyRN/mtg-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "request": "^2.88.0"
+  }
+}
